@@ -29,4 +29,4 @@ CV structure based on a format by Priyank Ahuja (@ahuja_priyank). ATS formatting
 
 ## Reference
 - **[design-skills](skills/general-skills/cv-builder/SKILL.md)** — Skills for design work — Product Design, UX/UI, Design Systems, and Design-to-Code.
-- **[general-skills](skills/general-skills/cv-builder/SKILL.md)** — Skills for everything else — job hunting, writing, and general workflows.
+- **[general-skills](skills/general-skills)** — Skills for everything else — job hunting, writing, and general workflows.
