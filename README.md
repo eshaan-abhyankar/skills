@@ -28,5 +28,5 @@ Built around a real, tested job-search workflow rather than a generic "improve m
 CV structure based on a format by Priyank Ahuja (@ahuja_priyank). ATS formatting rules adapted from a table shared by Mohini Goyal (@Mohiniuni).
 
 ## Reference
-- **[emil-design-eng](./skills/emil-design-eng/SKILL.md)** — Skills for design work — Product Design, UX/UI, Design Systems, and Design-to-Code.
-- **[review-animations](./skills/review-animations/SKILL.md)** — Skills for everything else — job hunting, writing, and general workflows.
+- **[design-skills](skills/general-skills/cv-builder/SKILL.md)** — Skills for design work — Product Design, UX/UI, Design Systems, and Design-to-Code.
+- **[general-skills](skills/general-skills/cv-builder/SKILL.md)** — Skills for everything else — job hunting, writing, and general workflows.
