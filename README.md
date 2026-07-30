@@ -27,3 +27,6 @@ Built around a real, tested job-search workflow rather than a generic "improve m
 
 CV structure based on a format by Priyank Ahuja (@ahuja_priyank). ATS formatting rules adapted from a table shared by Mohini Goyal (@Mohiniuni).
 
+## Reference
+1. design-skills — Skills for design work — Product Design, UX/UI, Design Systems, and Design-to-Code.
+2. general-skills - Skills for everything else — job hunting, writing, and general workflows.
