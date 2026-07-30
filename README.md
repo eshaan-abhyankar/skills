@@ -19,7 +19,7 @@ Claude.ai: open the relevant `SKILL.md`'s packaged `.skill` file (or the folder 
 
 ## Reference
 
-- **[cv-builder](skills/cv-builder/SKILL.md)** — Tailor a CV to a job description using a 7-step workflow: JD extraction, full CV rewrite, bullet-level rewrite, role-fit matrix, gap analysis + summary realignment, hiring-manager verdict, and full application pack. Applies fixed formatting rules (no em dashes, right-aligned dates, approved job titles) automatically and never invents experience not already present in the CV.
+- **[cv-builder](cv-builder)** — Tailor a CV to a job description using a 7-step workflow: JD extraction, full CV rewrite, bullet-level rewrite, role-fit matrix, gap analysis + summary realignment, hiring-manager verdict, and full application pack. Applies fixed formatting rules (no em dashes, right-aligned dates, approved job titles) automatically and never invents experience not already present in the CV.
 
 ## About
 
