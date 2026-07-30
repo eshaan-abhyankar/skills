@@ -26,7 +26,3 @@ Claude.ai: open the relevant `SKILL.md`'s packaged `.skill` file (or the folder 
 Built around a real, tested job-search workflow rather than a generic "improve my resume" prompt — each step has a specific job (diagnose, rewrite, or verdict) and the skill only runs the steps a given request actually calls for.
 
 CV structure based on a format by Priyank Ahuja (@ahuja_priyank). ATS formatting rules adapted from a table shared by Mohini Goyal (@Mohiniuni).
-
-## Reference
-- **[design-skills](skills/general-skills/cv-builder/SKILL.md)** — Skills for design work — Product Design, UX/UI, Design Systems, and Design-to-Code.
-- **[general-skills](skills/general-skills)** — Skills for everything else — job hunting, writing, and general workflows.
